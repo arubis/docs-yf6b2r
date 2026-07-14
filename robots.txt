@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-77gz9e.nottinghamshirenaturelakes.co.uk/sitemap.xml
